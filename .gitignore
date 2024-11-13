@@ -1,0 +1,31 @@
+# Node.js dependencies for both frontend and backend
+node_modules/
+
+# Environment variables for frontend and backend
+frontend/.env
+backend/.env
+
+# Logs
+logs/
+*.log
+
+# Debugging and IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm cache
+.npm/
+
+# Build directories
+frontend/build/
+backend/dist/
+
+# Coverage reports (if using testing tools like Jest)
+coverage/
+
+# Temporary files
+*.tmp
